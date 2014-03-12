@@ -5,7 +5,7 @@ A Hello World sample app that makes a simple rest call to xigniteGlobalCurrencie
 
 1) Register for an API Token at https://www.xignite.com/Register
 
-2) Clone repo and plug API token in config.yml
+2) Clone repo and plug API token in config.js
 
 3) Run script.
 
